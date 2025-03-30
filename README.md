@@ -67,7 +67,7 @@ Langflow does **not persist tokens or API keys**, so after importing the flow, y
 6. Paste in your AstraDB credentials
 7. Click “Playground” and try sample queries!
 
-📝 *To re-ingest the dataset, import `airline_review_ingestion.json` and use `airline_reviews_unstructured.pdf` as input.*
+📝 *To ingest the dataset, import `airline_review_ingestion.json` and use `airline_reviews_unstructured.pdf` as input or like i did it, manually setup AstraDB database and collection and upload `airline_reviews_unstructured.pdf`. so you can test out vector search.*
 
 ---
 

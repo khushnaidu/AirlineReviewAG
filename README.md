@@ -72,7 +72,7 @@ Langflow does **not persist tokens or API keys**, so after importing the flow, y
 
 ---
 
-##  Notes for Reviewers / Instructors
+##  Notes for Grader/Professor
 
 - The retrieval flow is fully functional and connected to real embedded review data
 - The ingestion flow is only illustrative and included to demonstrate pipeline design — would recommend setting up collection via upload in AstraDB

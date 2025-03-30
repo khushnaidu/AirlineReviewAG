@@ -25,9 +25,4 @@ Traveller Type: Business
 ### `_id` (string)
 - Unique identifier for the document (auto-generated)
 
-###  Optional metadata (if added during ingestion):
-- `airline`: string (e.g., "Nepal Airlines")
-- `route`: string (e.g., "Bangalore to Kathmandu")
-- `seat_type`: string (e.g., "Economy Class")
-- `traveller_type`: string (e.g., "Business")
 

@@ -54,6 +54,8 @@ Langflow does **not persist tokens or API keys**, so after importing the flow, y
 - Paste your **AstraDB Token**
 - Add your **API Endpoint**
 - Set your **OpenAI API Key**
+- Create your own **database**
+- Create your own **collection**
 
 ---
 

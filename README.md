@@ -19,7 +19,7 @@ This project implements a **cloud-based GenAI-powered data pipeline** using [Lan
 | File | Purpose |
 |------|---------|
 | `airline_review_rag.json` | Working RAG pipeline (live, ready for query) |
-| `airline_review_ingestion.json` | Optional ingestion flow |
+| `airline_review_ingestion.json` | Optional ingestion flow + RAG (open in separate project) |
 | `airline_reviews_5k.csv` | Cleaned review dataset |
 | `airline_reviews_unstructured.pdf` | Unstructured version for ingestion |
 
@@ -41,7 +41,7 @@ Example queries:
 
 ## 🧾 Data Ingestion
 
-I decided to manually ingest data via file upload in AstraDB in order to test vector search. So, although the data was originally uploaded manually into AstraDB using the **Upload Data UI**, a Langflow-native ingestion flow is also included for demonstration.
+I decided to manually ingest data via file upload in AstraDB in order to test vector search. So, although the data was originally uploaded manually into AstraDB using the **Upload Data UI**, a Langflow-native ingestion flow is also included for demonstration. This also includes the original RAG flow for your convenience, just make sure to open it in a separate project.
 
 The `airline_review_ingestion.json` flow shows how you could:
 1. Upload a file (`.csv` or `.pdf`)

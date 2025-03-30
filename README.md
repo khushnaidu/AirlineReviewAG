@@ -20,8 +20,7 @@ This project implements a **cloud-based GenAI-powered data pipeline** using [Lan
 |------|---------|
 | `airline_review_rag.json` | Working RAG pipeline (live, ready for query) |
 | `airline_review_ingestion.json` | Optional ingestion flow + RAG (open in separate project) |
-| `airline_reviews_5k.csv` | Cleaned review dataset |
-| `airline_reviews_unstructured.pdf` | Unstructured version for ingestion |
+| `airline_reviews_unstructured.pdf` | Unstructured dataset of over 5000 reviews for ingestion |
 
 ---
 

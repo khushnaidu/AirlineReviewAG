@@ -32,7 +32,7 @@ The **retrieval flow** uses:
 All queries run against a pre-loaded AstraDB collection called `airline_review_rag`.
 
 Example queries:
-- “Which airline's have good economy seat reviews for flights from New York??”
+- “Which airlines have good reviews for flights from New York?”
 - “Which airlines have poor seat comfort in economy according to reviews?”
 - “Which airlines are delayed most often according to reviews?”
 

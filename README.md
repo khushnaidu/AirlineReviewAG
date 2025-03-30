@@ -82,6 +82,6 @@ Langflow does **not persist tokens or API keys**, so after importing the flow, y
 
 ## 🙌 Acknowledgements
 
-- Dataset: [Kaggle Airline Review Dataset]((https://www.kaggle.com/datasets/juhibhojani/airline-reviews))
+- Dataset: [Kaggle Airline Review Dataset] (https://www.kaggle.com/datasets/juhibhojani/airline-reviews)
 - Tools: Langflow, AstraDB, OpenAI, Datastax AI Studio
 
